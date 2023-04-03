@@ -17,7 +17,7 @@ title: DSC 102
 description: DSC 102, Spring 2023 at UC San Diego
 tagline: Systems for Scalable Analytics
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://dsc-courses.github.io/dsc102-2023-sp' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://rod-albuyeh-labs.github.io/dsc102-sp23' # the base hostname & protocol for your site, e.g. http://example.com
 author: Rod Albuyeh
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 

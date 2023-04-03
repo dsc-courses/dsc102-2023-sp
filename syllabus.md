@@ -32,8 +32,8 @@ A major component of this course is hands-on Python programming to implement dat
     - See the PAs page for the PA schedule and details. 
     - There are *no late days* for the PAs. Plan your work accordingly.  
 
-- 12 Peer Instruction activities via iClickers. 
-    - They will be held in class using iClicker, spread randomly across the quarter.
+- 12 in-class activities via GradeScope. 
+    - They will be held in class using GradeScope, spread randomly across the quarter.
     - Each activity will have 2 multiple-choice questions (MCQ). Quantitative problems may exist but only the final answer will need to be selected. No partial credits.
     - For each question, you must first answer individually. Then you can discuss the question with you neighbor(s). After that, you can answer the question again.
     - These activities are also open books/notes/electronics/Web.
@@ -127,7 +127,7 @@ final grade then is B+.
 
 Midterm Exam: Thursday, 05/11, in class
 
-Cumulative Final Exam: Friday, 6/15/2023, 8:00am-10:59am; remote via Canvas
+Cumulative Final Exam: Friday, 6/15/2023, 8:00am-10:59am; in person
 
 #### Classroom Rules
 
