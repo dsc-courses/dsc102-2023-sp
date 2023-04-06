@@ -38,18 +38,15 @@ A major component of this course is hands-on Python programming to implement dat
     - For each question, you must first answer individually. Then you can discuss the question with you neighbor(s). After that, you can answer the question again.
     - These activities are also open books/notes/electronics/Web.
     - Grading is based on earnest participation in the whole activity.
-    - If you miss an activity, you will get no credit for it, unless you notify the instructor in advance with a university approved reason.
+    - If you miss an activity, you can still submit on the same day by 11:59pm PST to recoup up to 60% of the score for that activity.
     - You can miss up to 2 activities out of the 12 without losing credit.
-    - Make sure to bring your clicker to every lecture. If you happen to forget it one day, submit your written answers on a sheet.
-    - You are allowed to possess only your own clicker. Using someone else's clicker is an academic integrity violation that will entail serious consequences as listed below.
 
 - Midterm exam and cumulative final exam
-    - The midterm exam will be held in person only. The final exam will be held as a Canvas Quiz only. The dates and logistics are listed below. 
+    - The midterm exam will be held in person only. The final exam will be held in person as well. The dates and logistics are listed below. 
     - The exams will have primarily multiple choice questions. Quantitative/longer problems will exist but only one final answer may need to be selected. Some questions will have partial credits. 
     - The guideline for time per question is a max of 1 minute per point. The points of each question will be calibrated accordingly. 
     - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot. 
-    - The midterm is *closed books/notes/electronics/web*. You are allowed to keep with you two A4-sized sheets (four slides) with any content you want. 
-    - The final exam is *open books/Web/etc*. The only requirement is you should neither give nor receive help from anyone by any means. 
+    - The midterm and final are *closed books/notes/electronics/web*. You are allowed to keep with you two A4-sized sheets (four sides) with any content you want for the midterm, and four A4-sized sheets (eight sides) for the final.
 
 - There will be three extra credit assignments delivered via Canvas only. I will announce more details on these in due course. 
 
@@ -127,7 +124,7 @@ final grade then is B+.
 
 Midterm Exam: Thursday, 05/11, in class
 
-Cumulative Final Exam: Friday, 6/15/2023, 8:00am-10:59am; in person
+Cumulative Final Exam: Thursday, 6/15/2023, 8:00am-10:59am; in person
 
 #### Classroom Rules
 
@@ -135,7 +132,7 @@ Cumulative Final Exam: Friday, 6/15/2023, 8:00am-10:59am; in person
 
 - Students are encouraged to ask questions and participate in discussions in class and on Piazza. Please raise your hand before speaking and the instructor will call on you to speak.
 
-- Please review UCSD's honor code and policies and procedures on [academic integrity here](https://academicintegrity.ucsd.edu/). If plagiarism is detected in your code, or if we detect collusion on the graded quizzes or exams, or if you are found to be using someone else's clickers, or if any other form of academic integrity violation is identified, you will get zero for that component of your score and get downgraded substantially. I will also notify the University authorities for appropriate disciplinary action to be taken, up to and including expulsion from the University.
+- Please review UCSD's honor code and policies and procedures on [academic integrity here](https://academicintegrity.ucsd.edu/). If plagiarism is detected in your code, or if we detect collusion on the graded quizzes or exams, or if any other form of academic integrity violation is identified, you will get zero for that component of your score and get downgraded substantially. I will also notify the University authorities for appropriate disciplinary action to be taken, up to and including expulsion from the University.
 
 - Please review UCSD's principles of community and our commitment to creating an inclusive learning environment [on this website](https://ucsd.edu/about/principles.html).
 

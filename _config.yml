@@ -30,8 +30,12 @@ permalink: pretty
 aux_links:
   Campuswire:
     - 'https://campuswire.com/c/G758B8EF0/feed'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/521411'
   DataHub:
     - 'https://datahub.ucsd.edu'
+  AWS Portal:
+    - 'https://ets-apps.ucsd.edu/individual/DSC102_SP23_A00/roster'
 
 footer_content:
 
@@ -92,5 +96,5 @@ callouts:
     title: Important Announcement
     color: red
   note:
-    title: Note
-    color: yellow
+    title: ""
+    color: green

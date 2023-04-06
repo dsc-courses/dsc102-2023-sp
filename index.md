@@ -12,8 +12,10 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-
+{: .note } 
 Discussions/Lab sessions will be held Tuesdays 7:00pm-7:50pm in MANDE B-210.
+
+Click the 📺 icons below to view podcast recording. 
 
 
 
