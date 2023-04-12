@@ -19,7 +19,7 @@ Click the 📺 icons below to view podcast recording.
 
 
 
-[Jump to the current week](#week-01){: .btn }
+[Jump to the current week](#week-02){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
