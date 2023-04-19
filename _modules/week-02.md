@@ -9,5 +9,5 @@
           "**PA**{: .label .label-disc } [Sign-up for PA Groups on Campuswire](https://campuswire.com/c/G758B8EF0/feed)":
       - date: 2023-4-13
         events:
-          "**LEC 3**{: .label .label-lecture } [Computer Organization Part 1-c](resources/lectures/Lec_03-Topic_1-Part_1c-CompOrg.pdf)":
+          "**LEC 3**{: .label .label-lecture } [Computer Organization Part 1-c](resources/lectures/Lec_03-Topic_1-Part_1c-CompOrg.pdf)": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a00/4)"
 ---

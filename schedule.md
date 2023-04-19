@@ -21,7 +21,7 @@ nav_order: 5
 |5|Review for midterm in discussion section, 05/09/2023 ||
 |6|Midterm on 5/11/2023 in class||
 |6-7|Parallel and Scalable Data Processing: Scalable Data Access||
-|7|Industry Guest Talk: Jules Damji from Anyscale Discussing Ray Core||
+|7|Industry Guest Talk: [Jules Damji](https://www.linkedin.com/in/dmatrix/) from Anyscale Discussing Ray Core on 5/18/2023||
 |7-8|Parallel and Scalable Data Processing: Data Parallelism ||
 |9-10|Dataflow Systems|Ch. 2.2 of MLSys Book|
 |10|ML Model Building Systems|Ch. 8-8.4 of MLSys Book|

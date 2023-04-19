@@ -32,14 +32,15 @@ A major component of this course is hands-on Python programming to implement dat
     - See the PAs page for the PA schedule and details. 
     - There are *no late days* for the PAs. Plan your work accordingly.  
 
-- 12 in-class activities via GradeScope. 
+- 6 in-class activities via GradeScope. 
     - They will be held in class using GradeScope, spread randomly across the quarter.
     - Each activity will have 2 multiple-choice questions (MCQ). Quantitative problems may exist but only the final answer will need to be selected. No partial credits.
     - For each question, you must first answer individually. Then you can discuss the question with you neighbor(s). After that, you can answer the question again.
     - These activities are also open books/notes/electronics/Web.
     - Grading is based on earnest participation in the whole activity.
-    - If you miss an activity, you can still submit on the same day by 11:59pm PST to recoup up to 60% of the score for that activity.
-    - You can miss up to 2 activities out of the 12 without losing credit.
+    - If you miss an activity, you can still submit on the same day by 11:59pm PST to recoup up to 60% of the score for that activity, unless specified otherwise on Campuswire.
+    - You can miss up to 2 activities out of the 6 without losing credit.
+    - If you complete all of the activities, we will use the best 4 scores. 
 
 - Midterm exam and cumulative final exam
     - The midterm exam will be held in person only. The final exam will be held in person as well. The dates and logistics are listed below. 
