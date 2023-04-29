@@ -96,5 +96,11 @@ callouts:
     title: Important Announcement
     color: red
   note:
-    title: ""
+    title: "FYSA"
     color: green
+  challenge:
+    title: Extra Credit
+    color: purple
+  caution:
+    title: caution
+    color: yellow

@@ -13,16 +13,19 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 {: .important } 
-In-class activities have been cut from 12 to 6, while you can still miss two without penalty. 
+PA1 release moved to 4/30 
 
 {: .note } 
-PA0 prompt has been revised to account for AWS account isolation. 
+Revised slides for 4/25 to more accurately bucket some AWS services within PaaS and SaaS.
 
-Click the 📺 icons below to view podcast recording. 
+{: .challenge } 
+Beat the 255 second best runtime on PA0 for 2% extra credit! Must be reproducible, and beat by 10 seconds for eligibility, with correct results on test datasets. Can only be won once per team. 
+
+Click the 📺 icons below to view lecture recording. 
 
 
 
-[Jump to the current week](#week-03){: .btn }
+<!-- [Jump to the current week](#week-03){: .btn } -->
 
 {% for module in site.modules %}
 {{ module }}

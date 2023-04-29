@@ -14,3 +14,4 @@ $ bundle exec jekyll serve
 1. Reload your web browser after making a change to preview its effect.
 
 For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+

@@ -15,7 +15,7 @@ nav_order: 4
     - Discussion by TA: 04/18/2023
     - Due Date: 04/29/2023
 - PA1: Data Exploration with Dask
-    - Release Date: 04/27/2023
+    - Release Date: 04/30/2023
     - Statement and Grading Rubric will be posted here
     - Discussion by TA: 05/09/2023
     - Due Date: 05/16/2023
