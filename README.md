@@ -1,6 +1,5 @@
 # dsc102-sp03
 
-
 ### Local development environment
 
 Just the Class is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
