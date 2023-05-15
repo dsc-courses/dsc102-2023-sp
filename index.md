@@ -12,14 +12,13 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .important } 
-PA1 release moved to 4/30 
 
-{: .note } 
-Revised slides for 4/25 to more accurately bucket some AWS services within PaaS and SaaS.
+{: .important } 
+PA1 due date extended to Friday, May 19th.
 
 {: .challenge } 
-Beat the 255 second best runtime on PA0 for 2% extra credit! Must be reproducible, and beat by 10 seconds for eligibility, with correct results on test datasets. Can only be won once per team. 
+Jules from Anyscale will be visiting on Thursday 5/18, and Venky from Amazon's Alexa AI team will be visiting on Thursday 5/25. There will be 2% extra credit opportunities available during each of those classes (4% total), in-person attendance is strongly encouraged.  
+
 
 Click the 📺 icons below to view lecture recording. 
 

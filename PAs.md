@@ -16,9 +16,9 @@ nav_order: 4
     - Due Date: 04/29/2023
 - PA1: Data Exploration with Dask
     - Release Date: 04/30/2023
-    - Statement and Grading Rubric will be posted here
+    - [Statement](resources/PAs/PA1.pdf) and [Grading Rubric](resources/PAs/PA1_Grading_Rubric.pdf)
     - Discussion by TA: 05/09/2023
-    - Due Date: 05/16/2023
+    - Due Date: 05/19/2023 (extended)
 - PA2: Feature Engineering and Model Selection with Spark
     - Release Date: 05/16/2023
     - Statement and Grading Rubric will be posted here

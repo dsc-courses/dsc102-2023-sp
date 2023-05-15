@@ -99,7 +99,7 @@ callouts:
     title: "FYSA"
     color: green
   challenge:
-    title: Extra Credit
+    title: Announcement
     color: purple
   caution:
     title: caution

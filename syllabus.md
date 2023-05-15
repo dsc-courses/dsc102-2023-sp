@@ -47,7 +47,7 @@ A major component of this course is hands-on Python programming to implement dat
     - The exams will have primarily multiple choice questions. Quantitative/longer problems will exist but only one final answer may need to be selected. Some questions will have partial credits. 
     - The guideline for time per question is a max of 1 minute per point. The points of each question will be calibrated accordingly. 
     - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot. 
-    - The midterm and final are *closed books/notes/electronics/web*. You are allowed to keep with you two A4-sized sheets (four sides) with any content you want for the midterm, and four A4-sized sheets (eight sides) for the final.
+    - The midterm and final are *closed books/notes/electronics/web*. You are allowed to keep with you two A4-sized sheets (four sides) with any content you want for the midterm, and four A4-sized sheets (eight sides) for the final. You may also use pocket calculators (i.e. the ones that don't have non-volatile memory) as there will be some light math involved. 
 
 - There will be three extra credit assignments delivered via Canvas only. I will announce more details on these in due course. 
 
