@@ -23,6 +23,7 @@ nav_order: 5
 |6-7|Parallel and Scalable Data Processing: Scalable Data Access||
 |7|Industry Guest Talk: [Jules Damji](https://www.linkedin.com/in/dmatrix/) from Anyscale Discussing Ray Core on 5/18/2023||
 |7-8|Parallel and Scalable Data Processing: Data Parallelism ||
+|8|Industry Guest Talk: [Venkatesh Ravichandran](https://www.linkedin.com/in/venkateshcr/) from Alexa AI at Amazon Discussing Language Data Organization on 5/25/2023||
 |9-10|Dataflow Systems|Ch. 2.2 of MLSys Book|
 |10|ML Model Building Systems|Ch. 8-8.4 of MLSys Book|
 |10|Final exam review in discussion section, 06/06/2023||

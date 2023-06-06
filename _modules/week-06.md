@@ -7,6 +7,6 @@
           "**LEC 10**{: .label .label-lecture } [Midterm Review](resources/lectures/Lec_10-MidtermReview.pdf)": "[📺](https://podcast.ucsd.edu/watch/sp23/dsc102_a00/11)"
       - date: 2023-5-11
         events:
-          "**LEC 11**{: .label .label-lecture } No Content Posted - In-Class Exam":
+          "**EXAM**{: .label .label-exam } No Content Posted - In-Class Exam":
 
 ---

@@ -21,7 +21,7 @@ nav_order: 4
     - Due Date: 05/19/2023 (extended)
 - PA2: Feature Engineering and Model Selection with Spark
     - Release Date: 05/16/2023
-    - Statement and Grading Rubric will be posted here
+    - [Statement](resources/PAs/PA2.pdf) and [Grading Rubric](resources/PAs/PA2_Grading_Rubric.pdf)    
     - Discussion by TA: to be posted on Canvas 05/23/2023
     - Due Date: 06/09/2023
 
